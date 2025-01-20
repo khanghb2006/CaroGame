@@ -1,3 +1,3 @@
-ho_ten = "Huynh Bao Khang"
+ho_ten = "Khang"
 
 print(ho_ten)
